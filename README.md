@@ -5,11 +5,6 @@
 Unlock powerful business insights using advanced Excel techniques!  
 This project focuses on **WRT** (Weekly Report Tracker) and **SSR** (Stock Sell-out Report), providing deep insights into **sales** and **stock levels** through automated data registration, pivot tables, and advanced Excel formulas 📈.
 
----
-
-![Excel Tools](https://via.placeholder.com/1000x300.png?text=Advanced+Excel+%7C+Pivot+Tables+%7C+VBA+Automation)
-
----
 
 ## 🔹 Project Overview
 
